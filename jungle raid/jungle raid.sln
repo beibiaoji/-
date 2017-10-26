@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jungle raid", "jungle raid.csproj", "{E8D3D531-F471-391F-91BA-C78E37D5E30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jungle raid.Editor", "jungle raid.Editor.csproj", "{A30FA279-50F6-CB3F-91CF-EAEE4906F5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D3D531-F471-391F-91BA-C78E37D5E30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D3D531-F471-391F-91BA-C78E37D5E30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D3D531-F471-391F-91BA-C78E37D5E30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D3D531-F471-391F-91BA-C78E37D5E30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30FA279-50F6-CB3F-91CF-EAEE4906F5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30FA279-50F6-CB3F-91CF-EAEE4906F5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30FA279-50F6-CB3F-91CF-EAEE4906F5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30FA279-50F6-CB3F-91CF-EAEE4906F5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
